@@ -13,4 +13,4 @@
 
 4. Evoluindo a tela inicial do App
 
-
+#### **Explorando alguns componentes nativos e o Material Design, um dos principais guidelines de identidade visual da plataforma Android.**
